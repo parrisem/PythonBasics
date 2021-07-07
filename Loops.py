@@ -65,9 +65,6 @@ for i in range(1,10):
 else:
   print("this is not printed becasue for loop is terminated because of break but not due to fail in condition")
 
-
-
-
 # Exercise
 print("\nEXERCISE")
 numbers = [
